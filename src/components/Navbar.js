@@ -10,7 +10,7 @@ const Navbar = () => {
       <div class="nav-center">
         <div className="nav-header">
           <img src={logo} alt="logo" />
-          <button type="button" className="button toggle-btn">
+          <button type="button" className="toggle-btn">
             <FaAlignRight></FaAlignRight>
           </button>
         </div>
